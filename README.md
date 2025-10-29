@@ -46,4 +46,6 @@ Built as a learning project for blockchain beginners who want to understand:
 ✅ Ready to deploy on any EVM-compatible network (like Sepolia, Polygon, or local Hardhat)
 
 ---
-
+## 🌍 Deployed Smart Contract
+**Network:** Celo Sepolia Testnet
+**Contract Address:** https://celo-sepolia.blockscout.com/address/0x997E16084b00Db75C3903CA07db29560172c54a9
