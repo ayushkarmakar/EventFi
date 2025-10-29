@@ -3,7 +3,8 @@
 A beginner-friendly **Solidity smart contract** that enables anyone to create events, sell tickets, and store **on-chain proof of purchase** — ensuring fairness, transparency, and ownership verification for every ticket holder.
 
 ---
-![Uploading Screenshot 2025-10-29 152624.png…]()
+<img width="1904" height="1011" alt="Screenshot 2025-10-29 152624" src="https://github.com/user-attachments/assets/faa4e114-6709-43ea-9be4-42bcbf9fd348" />
+
 
 ## 📖 Project Description
 
